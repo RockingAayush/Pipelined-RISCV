@@ -6,7 +6,7 @@ A fully functional **5-stage pipelined** RISC-V processor implemented in Verilog
 
 ## Block Diagram
 
-![Block Diagram](images/block_diagram.jpeg)
+![Block Diagram](images/block_diagram.jpg)
 
 ---
 
